@@ -14,4 +14,4 @@ Get an entry id from a page / structure uri, or vice-versa
 	{exp:page2:id uri="/{segment_1}/{segment_2}/"}
 	
 	{!-- get a uri from an entry_id --}
-	{exp:page2:uri entry_id="/{segment_1}/{segment_2}/"}
+	{exp:page2:uri entry_id="143"}
